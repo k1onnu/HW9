@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class Main {
     static boolean isEven = true;
     static int num = 0;
